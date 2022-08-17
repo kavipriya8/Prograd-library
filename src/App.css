@@ -1,0 +1,18 @@
+.MuiDataGrid-root .MuiDataGrid-cell{
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    }
+
+.Mui-even{
+    background: rgba(106, 133, 171, 0.693);
+}
+
+.Mui-even:hover{
+    background: rgba(106, 133, 171, 0.693) !important;
+}
+.MuiDataGrid-columnHeaderTitle{
+    font-weight: bold !important;
+}
+.App{
+    background-image: url(./images/library.jpg) !important;
+}
